@@ -1,0 +1,4 @@
+[
+  {"ParameterKey":"Name","ParameterValue":"cg-prod"},
+  {"ParameterKey":"BootstrapScript","ParameterValue":"clish -c \"lock database override\"; clish -c \"save config\""}
+]

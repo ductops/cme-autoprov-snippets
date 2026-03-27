@@ -1,0 +1,1 @@
+autoprov_cfg add template -tn tpl-gcp -otp 'Key12345' -ver R81.20 -po Standard -ia -ips -vpn

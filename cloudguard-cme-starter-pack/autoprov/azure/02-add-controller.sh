@@ -1,0 +1,1 @@
+autoprov_cfg add controller Azure -cn az-prod -sb SUB_ID -at TENANT -aci CLIENT -acs SECRET -ct tpl-azure

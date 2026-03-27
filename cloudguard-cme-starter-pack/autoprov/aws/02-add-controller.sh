@@ -1,0 +1,1 @@
+autoprov_cfg add controller AWS -cn aws-prod -r us-east-1 -iam -ct tpl-aws

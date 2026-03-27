@@ -1,0 +1,1 @@
+autoprov_cfg add controller GCP -cn gcp-prod -proj PROJECT_ID -cr $FWDIR/conf/key.json -ct tpl-gcp

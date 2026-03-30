@@ -1,8 +1,14 @@
-# CloudGuard AWS + CME Starter Pack
+# CloudGuard CME Starter Pack
 
 ## Purpose
 
 A practical starter pack for deploying and operating Check Point CloudGuard with AWS bootstrap scripting, CME templates, and `autoprov_cfg` examples for AWS, Azure, and GCP.
+
+Don't forget to chmod for any scripts you plan on using:
+- `chmod +x bootstrap-minimal.sh`
+- And as always, test on test, review the code, these are provided as best effort.
+
+Contributions are very much welcomed!  Sharing is caring :)
 
 ## Repo tree
 
